@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/streamich/v4-uuid/compare/v1.0.0...v1.1.0) (2019-04-15)
+
+
+### Features
+
+* 🎸 add implementation with only 2 Math.random() calls ([8011093](https://github.com/streamich/v4-uuid/commit/8011093))
+
 # 1.0.0 (2019-04-15)
 
 
