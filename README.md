@@ -1,7 +1,7 @@
 # v4-uuid
 
 Simple Version 4 (random) UUID generator for browser, without any dependencies.
-Calls `Math.random()` twice to generate on UUID.
+Calls `Math.random()` twice to generate a single UUID.
 
 
 ## Usage
